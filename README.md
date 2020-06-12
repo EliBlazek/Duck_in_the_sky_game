@@ -5,7 +5,7 @@ Source of my sh*tty game I made for a jam. Made in @GDevelop
 
 Completely drawn and voiced by me.
 
-It´s more of a tech demo than anything else. I was making this game for a "I Can't Draw But Want To Make A Game (Again)" game jam by charlmes on Itch.io - so the extremely low art quality sprites, the messy UI bad color and font usage and the weird sound design were on purpose.
+It´s more of a tech demo than anything else. I was making this game for a "I Can't Draw But Want To Make A Game (Again)" game jam by charlmes on Itch.io - so the extremely low art quality sprites, the messy UI bad color and font usage and the weird sound design were on purpose. See here: https://itch.io/jam/i-cant-draw-but-want-to-make-a-game-again 
 
 Game time is about 3 minutes, I would say. But if you want to - you can use my sprites, sounds and whatever in your own GDevelop in order to create other levels. 
 
